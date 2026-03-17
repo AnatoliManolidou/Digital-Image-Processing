@@ -1,6 +1,6 @@
 <div align="center">
 
-# Digital Image Processing
+# Digital Image Processing Projects
 
 **Three assignment implementations in Python**
 
